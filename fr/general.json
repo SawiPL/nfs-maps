@@ -1,0 +1,83 @@
+{
+	"maps":{
+		"olympic_city":"Olympic City",
+		"bayview":"Bayview",
+		"rockport":"Rockport",
+		"palmont_city":"Palmont City",
+		"prostreet":"ProStreet",
+		"tri-city_bay":"Tri-City Bay",
+		"world":"World",
+		"seacrest_county":"Seacrest County",
+		"usa":"USA",
+		"fairhaven":"Fairhaven",
+		"redview_county":"Redview County",
+		"ventura-bay":"Ventura Bay"
+	},
+	"home":{
+		"tagline":"Cartes de Need for Speed Interactive non officielles <br>(en cours d'élaboration)",
+		"resultsFound":"résultat(s) trouvé(s).",
+		"searchPlaceholder":"Entrer le texte de recherche..."
+	},
+	"sidebar":{
+		"returnToMapSelection":"Return to Map Selection Page",
+		"venturabaygaraz":"Garage",
+		"venturabayposterunekpolicji":"Police Station",
+		"venturabaystacjabenzynowa":"Gas Station",
+		"venturabaydriftowypociag":"Drift Train",
+		"venturabaygymkhana":"Gymkhana",
+		"venturabayjazdanaczas":"Time Attack",
+		"venturabaykonkursdriftu":"Drift Contest",
+		"venturabayprobaczasowa":"Time Trial",
+		"venturabayprobadriftu":"Drift Trial",
+		"venturabaysprint":"Sprint",
+		"venturabaytouge":"Touge",
+		"venturabaywyscignatorze":"Circuit Race",
+		"venturabaywyscigtypudrag":"Drag Race",
+		"venturabaypunktwidokowy":"Vista Spot",
+		"venturabaymiejscedokreceniabaczkow":"Donut Spot",
+		"venturabaydarmowaczesc":"Free Part",
+		"venturabaypunkteksploracyjny":"Urbex Spot",
+		"venturabaygonitwa":"Speed Run",
+		"venturabayzakretdriftowy":"Drift Corner",
+		"redviewcountygaraz":"Hideout",
+		"redviewcountyposterunek":"Command Post",
+		"redviewcountywarsztat":"Drive Through",
+		"redviewcountyskocznia":"Jump",
+		"redviewcountyfotoradar":"Speed Camera",
+		"redviewcountystrefapredkosci":"Speed Zone",
+		"redviewcountywyscig":"Race",
+		"redviewcountyhotpursuit":"Hot Pursuit",
+		"redviewcountyprobaczasowa":"Time Attack",
+		"redviewcountyprzechwycenie":"Interceptor",
+		"redviewcountyszybkareakcja":"Rapid Response"
+	},
+	"controls":{
+		"show":"Tout Afficher",
+		"hide":"Tout Masquer",
+		"showCounts":"Afficher le nombre",
+		"hideCounts":"Cacher le nombre",
+		"resetInvisible":"Reset l'affichage",
+		"resetInvisConfirm":"Cela remet l'affichage des marqueurs à leur statut initial (visible), êtes-vous sûr ?",
+		"helpFeatures":"Caractéristique et aide",
+		"credits":"Crédits",
+		"backupSave":"Ceci va télécharger une copie de sauvegarde de tous les paramètres de la carte Need for Speed.  Le fichier sera enregistré sous : __fileName__ Etes-vous sûr ?",
+		"backupLoad":"Restaurer vos paramètres :",
+		"backupLoadSuccess":"Restauration des données terminée !",
+		"backupLoadFail":"Restauration a échoué, vérifiez votre fichier",
+		"backupHtmlFail":"Désolé.  La restauration n'est pas possible.  Ce navigateur ne supporte pas HTML5 File API."
+	},
+	"credits":{
+		"botCreated":"Créé par __untamed0__, sous __license__",
+		"botHelp":"Avec l'aide de __mcarver__, & autres __contributors__. Merci à __designGears__ & __hhrhhr__ pour la carte et l'extraction des textes. Pour la liste complète des bibliothèques Javascript utilisé, __jsCredits__.",
+		"botAssets":"Le logo, les icônes, la carte et le texte de Need for Speed appartiennent à __cdpr__ "
+	},
+	"misc":{
+		"contribute":"Travaux en cours ! Aide appréciée au __link__",
+		"discuss":"Vos commentaires, suggestions ? Discuter sur __link__",
+		"helpTranslate":"Vous voulez aider ou améliorer les traductions ?",
+		"portraitWarn":"Remarque : la carte est optimisée en mode paysage, cliquez pour annuler",
+		"loveInterestDesc":"Laissez vos commentaire ici",
+		"nsfwConfirm":"Cela va changer « Bordel » à « Lieu d'amour », Êtes-vous sûr ?",
+		"nsfwUndo":"Êtes-vous sûr de que vouloir revenir en arrière ?"
+	}
+}
