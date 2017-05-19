@@ -75,9 +75,6 @@
 		"contribute":"Travaux en cours ! Aide appréciée au __link__",
 		"discuss":"Vos commentaires, suggestions ? Discuter sur __link__",
 		"helpTranslate":"Vous voulez aider ou améliorer les traductions ?",
-		"portraitWarn":"Remarque : la carte est optimisée en mode paysage, cliquez pour annuler",
-		"loveInterestDesc":"Laissez vos commentaire ici",
-		"nsfwConfirm":"Cela va changer « Bordel » à « Lieu d'amour », Êtes-vous sûr ?",
-		"nsfwUndo":"Êtes-vous sûr de que vouloir revenir en arrière ?"
+		"portraitWarn":"Remarque : la carte est optimisée en mode paysage, cliquez pour annuler"
 	}
 }

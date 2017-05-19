@@ -1,0 +1,388 @@
+{
+	"venturabaygaraz":{
+		"label":"Garaż",
+		"popup":"Tutaj możesz zmienić <a href='http://nfszone.pl/articles.php?article_id=865' target='_blank'>samochód</a> lub poddać go <a href='http://nfszone.pl/articles.php?article_id=871' target='_blank'>modyfikacjom.</a>"
+	},
+	"venturabayposterunekpolicji":{
+		"label":{
+			"LosSol":"Los Sol - posterunek policji",
+			"LonePalm":"Lone Palm - posterunek policji",
+			"VenturaBay":"Posterunek policji w Ventura Bay",
+			"FranklinTerrace":"Franklin Terrace - posterunek policji"
+		},
+		"popup":{
+			"LosSol":"To miejsce w Los Sol roi się od glin!",
+			"LonePalm":"To miejsce w Lone Palm roi się od glin!",
+			"VenturaBay":"To miejsce w Ventura Bay roi się od glin!",
+			"FranklinTerrace":"To miejsce we Franklin Terrace roi się od glin!"
+		}
+	},
+	"venturabaystacjabenzynowa":{
+		"label":{
+			"GraniteSpring":"Granite Spring - stacja benzynowa",
+			"LosSol":"Los Sol - stacja benzynowa",
+			"MostLosSol":"Most Los Sol - stacja benzynowa",
+			"MilleniumPlaza":"Millenium Plaza - stacja benzynowa",
+			"LonePalm":"Lone Palm - stacja benzynowa",
+			"Esplanade":"Esplanade - stacja benzynowa",
+			"EastEsplanade":"East Esplanade - stacja benzynowa",
+			"Arcadia":"Arcadia - stacja benzynowa",
+			"CentrumSztukiVenturaBay":"Centrum Sztuki Ventura Bay - stacja benzynowa",
+			"Komplekspetrochemiczny":"Kompleks petrochemiczny - stacja benzynowa",
+			"HarborView":"Harbor View - stacja benzynowa",
+			"Port":"Port - stacja benzynowa",
+			"ApolloHeights":"Apollo Heights - stacja benzynowa",
+			"BBAIndustries":"BBA Industries - stacja benzynowa"
+		},
+		"popup":{
+			"GraniteSpring":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
+			"LosSol":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
+			"MostLosSol":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
+			"MilleniumPlaza":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
+			"LonePalm":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
+			"Esplanade":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
+			"EastEsplanade":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
+			"Arcadia":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
+			"CentrumSztukiVenturaBay":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
+			"Komplekspetrochemiczny":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
+			"HarborView":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
+			"Port":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
+			"ApolloHeights":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
+			"BBAIndustries":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro."
+		}
+	},
+	"venturabaydriftowypociag":{
+		"label":"Driftowy pociąg",
+		"desc":""
+	},
+	"venturabaygymkhana":{
+		"label":"Gymkhana",
+		"desc":""
+	},
+	"venturabayjazdanaczas":{
+		"label":"Jazda na czas",
+		"desc":""
+	},
+	"konkursdriftu":{
+		"label":"Konkurs driftu",
+		"desc":""
+	},
+	"venturabayprobaczasowa":{
+		"label":"Próba czasowa",
+		"desc":""
+	},
+	"venturabayprobadriftu":{
+		"label":"Próba driftu",
+		"desc":""
+	},
+	"venturabaysprint":{
+		"label":"Sprint",
+		"desc":""
+	},
+	"venturabaytouge":{
+		"label":"Touge",
+		"desc":""
+	},
+	"venturabaywyscignatorze":{
+		"label":"Wyścig na torze",
+		"desc":""
+	},
+	"venturabaywyscigtypudrag":{
+		"label":"Wyścig typu drag",
+		"desc":""
+	},
+	"venturabaypunktwidokowy":{
+		"label":{
+			"WeidCanyon-zapora":"Weid Canyon - zapora",
+			"CrescentMountain-panorama":"Crescent Mountain - panorama",
+			"WeidCanyon-rzeka":"Weid Canyon - rzeka",
+			"GraniteSprings-panorama":"Granite Springs - panorama",
+			"GraniteSprings-pomnik":"Granite Springs - pomnik",
+			
+			"Beckenholl-panorama":"Beckenholl - panorama",
+			"CrossRoads-panorama":"Cross Roads - panorama",
+			"ShorelineFront-zatoka":"Shoreline Front - zatoka",
+			"VenturaBay-panorama":"Ventura Bay - panorama",
+			"VenturaBay-centrum":"Ventura Bay - centrum",
+			
+			"StadionGhost":"Stadion Ghost",
+			"Millennium-most":"Millennium - most",
+			"LonePalmVillage-skrzyzowanie":"Lone Palm Village - skrzyżowanie",
+			"EastEsplanade-starefabryki":"East Esplanade - stare fabryki",
+			"Arcadia-park":"Arcadia - park",
+			
+			"VenturaBay-centrumsztuki":"Ventura Bay - centrum sztuki",
+			"KomplekspetrochemicznyVB":"Kompleks petrochemiczny VB",
+			"SanPedro-port":"San Pedro - port",
+			"NavyPier":"Navy Pier",
+			"SouthPort-most":"South Port - most",
+			
+			"FranklinTerrace-panorama":"Franklin Terrace - panorama",
+			"Morphus":"Morphus",
+			"HarborViewcentrum-handlowe":"Harbor View - centrum handlowe",
+			"ApolloHeights":"Apollo Heights",
+			"BBAIndustries":"BBA Industries",
+			
+			"CastleHill-stacjauzdatnianiawody":"Castle Hill - stacja uzdatniania wody",
+			"SinnersPeak-obserwatorium":"Sinner's Peak - obserwatorium",
+			"ElRay-molo":"El Ray - molo",
+			"VenturaBay-widoknaocean":"Ventura Bay - widok na ocean",
+			"BishopRock-wzgorza":"Bishop Rock - wzgórza"
+		},
+		"popup":{
+			"WeidCanyon-zapora":"",
+			"CrescentMountain-panorama":"",
+			"WeidCanyon-rzeka":"",
+			"GraniteSprings-panorama":"",
+			"GraniteSprings-pomnik":"",
+			
+			"Beckenholl-panorama":"",
+			"CrossRoads-panorama":"",
+			"ShorelineFront-zatoka":"",
+			"VenturaBay-panorama":"",
+			"VenturaBay-centrum":"",
+			
+			"StadionGhost":"",
+			"Millennium-most":"",
+			"LonePalmVillage-skrzyzowanie":"",
+			"EastEsplanade-starefabryki":"",
+			"Arcadia-park":"",
+			
+			"VenturaBay-centrumsztuki":"",
+			"KomplekspetrochemicznyVB":"",
+			"SanPedro-port":"",
+			"NavyPier":"",
+			"SouthPort-most":"",
+			
+			"FranklinTerrace-panorama":"",
+			"Morphus":"",
+			"HarborViewcentrum-handlowe":"",
+			"ApolloHeights":"",
+			"BBAIndustries":"",
+			
+			"CastleHill-stacjauzdatnianiawody":"",
+			"SinnersPeak-obserwatorium":"",
+			"ElRay-molo":"",
+			"VenturaBay-widoknaocean":"",
+			"BishopRock-wzgorza":""
+		}
+	},
+	"venturabaymiejscedokreceniabaczkow":{
+		"label":{
+			"Wulkano-zacja":"Wulkano-zacja",
+			"Pieklopodmaska":"Piekło pod maską",
+			"Czarnydym":"Czarny dym",
+			"RuszylZiemie":"Ruszył Ziemię",
+			"Bjakbaczek":"B jak bączek",
+			
+			"Zawrotyglowy":"Zawroty głowy",
+			"WkolkoMacieju":"W kółko Macieju",
+			"Kolafortuny":"Koła fortuny",
+			"Wirujacysens":"Wirujący sens",
+			"Miotaczognia":"Miotacz ognia",
+			
+			"Tornado":"Tornado",
+			"Sladynaulicy":"Ślady na ulicy",
+			"Zakreconazakrecona":"Zakręcona zakręcona",
+			"Czarnadziura":"Czarna dziura",
+			"Disco-bak":"Disco-bąk",
+			
+			"Wkrecaniesruby":"Wkręcanie śruby",
+			"Iskryzalufelg":"Iskry z alufelg",
+			"Zwijanieasfaltu":"Zwijanie asfaltu",
+			"Szalonyspin":"Szalony spin",
+			"Wokolslonca":"Wokół słońca",
+			
+			"Kalabanga":"Kałabanga!",
+			"Aleurwal":"Ale urwał!",
+			"Malowaneamelinium":"Malowane amelinium",
+			"Smolaspodkola":"Smoła spod koła",
+			"Takimamyklimat":"Taki mamy klimat",
+			
+			"Kolkograniaste":"Kółko graniaste",
+			"Silnikwogniu":"Silnik w ogniu",
+			"Kalejdoskop":"Kalejdoskop",
+			"Rozkrecanieimprezy":"Rozkręcanie imprezy",
+			"Hula-hoop":"Hula-hoop"
+		},
+		"popup":{
+			"Wulkano-zacja":"",
+			"Pieklopodmaska":"",
+			"Czarnydym":"",
+			"RuszylZiemie":"",
+			"Bjakbaczek":"",
+			
+			"Zawrotyglowy":"",
+			"WkolkoMacieju":"",
+			"Kolafortuny":"",
+			"Wirujacysens":"",
+			"Miotaczognia":"",
+			
+			"Tornado":"",
+			"Sladynaulicy":"",
+			"Zakreconazakrecona":"",
+			"Czarnadziura":"",
+			"Disco-bak":"",
+			
+			"Wkrecaniesruby":"",
+			"Iskryzalufelg":"",
+			"Zwijanieasfaltu":"",
+			"Szalonyspin":"",
+			"Wokolslonca":"",
+			
+			"Kalabanga":"",
+			"Aleurwal":"",
+			"Malowaneamelinium":"",
+			"Smolaspodkola":"",
+			"Takimamyklimat":"",
+			
+			"Kolkograniaste":"",
+			"Silnikwogniu":"",
+			"Kalejdoskop":"",
+			"Rozkrecanieimprezy":"",
+			"Hula-hoop":""
+		}
+	},
+	"venturabaydarmowaczesc":{
+		"label":{
+			"20":"Darmowa część nr 20",
+			"12":"Darmowa część nr 12",
+			"18":"Darmowa część nr 18",
+			"1":"Darmowa część nr 1",
+			"15":"Darmowa część nr 15",
+			
+			"10":"Darmowa część nr 10",
+			"11":"Darmowa część nr 11",
+			"23":"Darmowa część nr 23",
+			"13":"Darmowa część nr 13",
+			"19":"Darmowa część nr 19",
+			
+			"21":"Darmowa część nr 21",
+			"2":"Darmowa część nr 2",
+			"3":"Darmowa część nr 3",
+			"22":"Darmowa część nr 22",
+			"14":"Darmowa część nr 14",
+			
+			"6":"Darmowa część nr 6",
+			"5":"Darmowa część nr 5",
+			"8":"Darmowa część nr 8",
+			"16":"Darmowa część nr 16",
+			"9":"Darmowa część nr 9",
+			
+			"17":"Darmowa część nr 17",
+			"4":"Darmowa część nr 4",
+			"7":"Darmowa część nr 7",
+			"24":"Darmowa część nr 24"
+		},
+		"popup":{
+			"20":"Lusterko na błotnik w stylu ulicznym do Hondy Civic",
+			"12":"Butla nitro (odn. z upływem czasu) - poj. 2,3 kg",
+			"18":"Podświetlany wlot powietrza do Lotusa",
+			"1":"Sprzęgło z czasem zmiany biegów 0,1 s",
+			"15":"Podświetlany wlot powietrza do Volvo",
+			
+			"10":"Chłodnica międzystopniowa szer./wys. 26 x 6",
+			"11":"Kompresor EliteTune-SC-V1-TUNER",
+			"23":"Wyścigowe progi boczne do Dodge'a Challengera SRT",
+			"13":"Duże błotniki fabryczne do Golfa GTI",
+			"19":"Wyścigowy błotnik typu I do Hondy Civic",
+			
+			"21":"Szeroki błotnik w stylu ulicznym do Dodge'a Challengera SRT",
+			"2":"zamienny filtr powietrza",
+			"3":"Podrasowana pompa paliwowa",
+			"22":"Wyścigowe progi boczne do Hondy Civic",
+			"14":"Podświetlany wlot powietrza do Golfa GTI",
+			
+			"6":"Wyścigowy układ wydechowy bez katalizatora",
+			"5":"Kolektor EL",
+			"8":"Podrasowany wałek rozrządu Elite.4 o czasie otwarcia zaworu (ssanie/wydech): 243/283",
+			"16":"Luserko na błotnik w stylu ulicznym do Mustanga-65",
+			"9":"Wyszlifowane doloty Elite Tuning v.2",
+			
+			"17":"Deflektory z kompozytu węglowego do Lotusa",
+			"4":"W pełni regulowane hamulce",
+			"7":"W pełni regulowany hamulec ręczny",
+			"24":"Szeroki błotnik w stylu ulicznym do Volvo"
+		}
+	},
+	"venturabaypunkteksploracyjny":{
+		"label":{
+			"Nerd":"Nerd",
+			"Kryjowkaidealna":"Kryjówka idealna",
+			"Wrakpociagu":"Wrak pociągu",
+			"Piksel":"Piksel",
+			"Szaman":"Szaman",
+			
+			"Muralzmonoklem":"Mural z monoklem",
+			"Pasekzycia":"Pasek życia",
+			"Nancy":"Nancy",
+			"Wiezacisnienzwzoremmaskujacym":"Wieża ciśnień z wzorem maskującym",
+			"Twarzwskale":"Twarz w skale"
+		},
+		"popup":{
+			"Nerd":"",
+			"Kryjowkaidealna":"",
+			"Wrakpociagu":"",
+			"Piksel":"",
+			"Szaman":"",
+			
+			"Muralzmonoklem":"",
+			"Pasekzycia":"",
+			"Nancy":"",
+			"Wiezacisnienzwzoremmaskujacym":"",
+			"Twarzwskale":""
+		}
+	},
+	"venturabaygonitwa":{
+		"label":{
+			"Zawirowania":"Zawirowania",
+			"Jakwzegarku":"Jak w zegarku",
+			"Zadymanazboczu":"Zadyma na zboczu",
+			"Strefazagrozenia":"Strefa zagrożenia",
+			"Granicawytrzymalosci":"Granica wytrzymałości",
+			"Piorun":"Piorun",
+			"Kompozytweglowy":"Kompozyt węglowy",
+			"Mieczworpalny":"Miecz worpalny",
+			"KabelRozruchowy":"Kabel Rozruchowy",
+			"Wplenerze":"W plenerze"
+		},
+		"popup":{
+			"Zawirowania":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 30 sekund",
+			"Jakwzegarku":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 26 sekund",
+			"Zadymanazboczu":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 27 sekund",
+			"Strefazagrozenia":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 28 sekund",
+			"Granicawytrzymalosci":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 32 sekundy",
+			"Piorun":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 30 sekund",
+			"Kompozytweglowy":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 30 sekund",
+			"Mieczworpalny":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 47 sekund",
+			"KabelRozruchowy":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 30 sekund",
+			"Wplenerze":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 25 sekund"
+		}
+	},
+	"venturabayzakretdriftowy":{
+		"label":{
+			"Przytulnyzakatek":"Przytulny zakątek",
+			"Skandynawskieszarpniecie":"Skandynawskie szarpnięcie",
+			"Giecieblotnikow":"Gięcie błotników",
+			"Kontrobrot":"Kontrobrót",
+			"Solidnefundamenty":"Solidne fundamenty",
+			"Guzikzpetelka":"Guzik z pętelką",
+			"Dzielnicadriftu":"Dzielnica driftu",
+			"Szlifierkadometalu":"Szlifierka do metalu",
+			"Razjeszcze":"Raz jeszcze",
+			"Blockwbok":"Block w bok"
+		},
+		"popup":{
+			"Przytulnyzakatek":"Pokonaj zakręt driftem osiągając minimum 3,500 pkt",
+			"Skandynawskieszarpniecie":"Pokonaj zakręt driftem osiągając minimum 3,000 pkt",
+			"Giecieblotnikow":"Pokonaj zakręt driftem osiągając minimum 4,000 pkt",
+			"Kontrobrot":"Pokonaj zakręt driftem osiągając minimum 2,500 pkt",
+			"Solidnefundamenty":"Pokonaj zakręt driftem osiągając minimum 3,500 pkt",
+			"Guzikzpetelka":"Pokonaj zakręt driftem osiągając minimum 3,000 pkt",
+			"Dzielnicadriftu":"Pokonaj zakręt driftem osiągając minimum 3,200 pkt",
+			"Szlifierkadometalu":"Pokonaj zakręt driftem osiągając minimum 4,500 pkt",
+			"Razjeszcze":"Pokonaj zakręt driftem osiągając minimum 3,000 pkt",
+			"Blockwbok":"Pokonaj zakręt driftem osiągając minimum 3,800 pkt"
+		}
+	}
+}
