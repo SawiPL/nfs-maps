@@ -1,15 +1,15 @@
-{
+﻿{
 	"redviewcountygaraz":{
-		"label":"Garaż",
-		"popup":"Tutaj możesz ukryć się przed policją."
+		"label":"Garáž",
+		"popup":"Miesto pre ukrytie pred políciou."
 	},
 	"redviewcountyposterunek":{
-		"label":"Posterunek",
-		"popup":"W tym miejscu możesz odpocząć od pościgów za rajdowcami."
+		"label":"Policajné Stanovište",
+		"popup":"Miesto, kde si možno oddýchnuť od naháňaní pretekárov."
 	},
 	"redviewcountywarsztat":{
-		"label":"Warsztat",
-		"popup":"W tym miejscu w mgnieniu oka naprawisz zniszczenia samochodu, załadujesz nitro oraz uzupełnisz bronie."
+		"label":"Prejazdná Opravna",
+		"popup":"Miesto, kde vám žmurknutím oka opravia auto a doplní nitro i zbrane."
 	},
 	"redviewcountyskocznia":{
 		"label":{
