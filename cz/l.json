@@ -1,58 +1,58 @@
-{
+﻿ {
 	"venturabaygaraz":{
-		"label":"Garaż",
-		"popup":"Tutaj możesz zmienić <a href='http://nfszone.pl/articles.php?article_id=865' target='_blank'>samochód</a> lub poddać go <a href='http://nfszone.pl/articles.php?article_id=871' target='_blank'>modyfikacjom.</a>"
+		"label":"Garáž",
+		"popup":"Místo, kde lze změnit <a href='http://nfszone.pl/articles.php?article_id=865' target='_blank'>vozidlo</a> nebo jej vybavit <a href='http://nfszone.pl/articles.php?article_id=871' target='_blank'>modifikacemi</a>."
 	},
 	"venturabayposterunekpolicji":{
 		"label":{
-			"LosSol":"Los Sol - posterunek policji",
-			"LonePalm":"Lone Palm - posterunek policji",
-			"VenturaBay":"Posterunek policji w Ventura Bay",
-			"FranklinTerrace":"Franklin Terrace - posterunek policji"
+			"LosSol":"Los Sol - Policejní stanice",
+			"LonePalm":"Lone Palm - Policejní stanice",
+			"VenturaBay":"Policejní stanice ve Ventura Bay",
+			"FranklinTerrace":"Franklin Terrace - Policejní stanice"
 		},
 		"popup":{
-			"LosSol":"To miejsce w Los Sol roi się od glin!",
-			"LonePalm":"To miejsce w Lone Palm roi się od glin!",
-			"VenturaBay":"To miejsce w Ventura Bay roi się od glin!",
-			"FranklinTerrace":"To miejsce we Franklin Terrace roi się od glin!"
+			"LosSol":"Tato část Los Sol se jen hemží strážci zákona!",
+			"LonePalm":"Tato část Lone Palm se jen hemží strážci zákona!",
+			"VenturaBay":"Tato část Ventury Bay se jen hemží strážci zákona!",
+			"FranklinTerrace":"Tato část Franklin Terrace se jen hemží strážci zákona!"
 		}
 	},
 	"venturabaystacjabenzynowa":{
 		"label":{
-			"GraniteSpring":"Granite Spring - stacja benzynowa",
-			"LosSol":"Los Sol - stacja benzynowa",
-			"MostLosSol":"Most Los Sol - stacja benzynowa",
-			"MilleniumPlaza":"Millenium Plaza - stacja benzynowa",
-			"LonePalm":"Lone Palm - stacja benzynowa",
-			"Esplanade":"Esplanade - stacja benzynowa",
-			"EastEsplanade":"East Esplanade - stacja benzynowa",
-			"Arcadia":"Arcadia - stacja benzynowa",
-			"CentrumSztukiVenturaBay":"Centrum Sztuki Ventura Bay - stacja benzynowa",
-			"Komplekspetrochemiczny":"Kompleks petrochemiczny - stacja benzynowa",
-			"HarborView":"Harbor View - stacja benzynowa",
-			"Port":"Port - stacja benzynowa",
-			"ApolloHeights":"Apollo Heights - stacja benzynowa",
-			"BBAIndustries":"BBA Industries - stacja benzynowa"
+			"GraniteSpring":"Granite Spring - Čerpací stanice",
+			"LosSol":"Los Sol - Čerpací stanice",
+			"MostLosSol":"Most Los Sol - Čerpací stanice",
+			"MilleniumPlaza":"Millenium Plaza - Čerpací stanice",
+			"LonePalm":"Lone Palm - Čerpací stanice",
+			"Esplanade":"Esplanade - Čerpací stanice",
+			"EastEsplanade":"East Esplanade - Čerpací stanice",
+			"Arcadia":"Arcadia - Čerpací stanice",
+			"CentrumSztukiVenturaBay":"Umělecké centrum Ventury Bay - Čerpací stanice",
+			"Komplekspetrochemiczny":"Petrochemický komplex - Čerpací stanice",
+			"HarborView":"Harbor View - Čerpací stanice",
+			"Port":"Port - Čerpací stanice",
+			"ApolloHeights":"Apollo Heights - Čerpací stanice",
+			"BBAIndustries":"BBA Industries - Čerpací stanice"
 		},
 		"popup":{
-			"GraniteSpring":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"LosSol":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"MostLosSol":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"MilleniumPlaza":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"LonePalm":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"Esplanade":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"EastEsplanade":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"Arcadia":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"CentrumSztukiVenturaBay":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"Komplekspetrochemiczny":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"HarborView":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"Port":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"ApolloHeights":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"BBAIndustries":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro."
+			"GraniteSpring":"Místo, kde vám zdarma opraví poškozenou karoserii vašeho vozidla.",
+			"LosSol":"Místo, kde vám zdarma opraví poškozenou karoserii vašeho vozidla.",
+			"MostLosSol":"Místo, kde vám zdarma opraví poškozenou karoserii vašeho vozidla.",
+			"MilleniumPlaza":"Místo, kde vám zdarma opraví poškozenou karoserii vašeho vozidla.",
+			"LonePalm":"Místo, kde vám zdarma opraví poškozenou karoserii vašeho vozidla.",
+			"Esplanade":"Místo, kde vám zdarma opraví poškozenou karoserii vašeho vozidla.",
+			"EastEsplanade":"Místo, kde vám zdarma opraví poškozenou karoserii vašeho vozidla.",
+			"Arcadia":"Místo, kde vám zdarma opraví poškozenou karoserii vašeho vozidla.",
+			"CentrumSztukiVenturaBay":"Místo, kde vám zdarma opraví poškozenou karoserii vašeho vozidla.",
+			"Komplekspetrochemiczny":"Místo, kde vám zdarma opraví poškozenou karoserii vašeho vozidla.",
+			"HarborView":"Místo, kde vám zdarma opraví poškozenou karoserii vašeho vozidla.",
+			"Port":"Místo, kde vám zdarma opraví poškozenou karoserii vašeho vozidla.",
+			"ApolloHeights":"Místo, kde vám zdarma opraví poškozenou karoserii vašeho vozidla.",
+			"BBAIndustries":"Místo, kde vám zdarma opraví poškozenou karoserii vašeho vozidla."
 		}
 	},
 	"venturabaydriftowypociag":{
-		"label":"Driftowy pociąg",
+		"label":"Drift Train",
 		"desc":""
 	},
 	"venturabaygymkhana":{
@@ -60,19 +60,19 @@
 		"desc":""
 	},
 	"venturabayjazdanaczas":{
-		"label":"Jazda na czas",
+		"label":"Time Attack",
 		"desc":""
 	},
 	"konkursdriftu":{
-		"label":"Konkurs driftu",
+		"label":"Drift Contest",
 		"desc":""
 	},
 	"venturabayprobaczasowa":{
-		"label":"Próba czasowa",
+		"label":"Time Trial",
 		"desc":""
 	},
 	"venturabayprobadriftu":{
-		"label":"Próba driftu",
+		"label":"Drift Trial",
 		"desc":""
 	},
 	"venturabaysprint":{
@@ -84,50 +84,50 @@
 		"desc":""
 	},
 	"venturabaywyscignatorze":{
-		"label":"Wyścig na torze",
+		"label":"Okruhový Závod",
 		"desc":""
 	},
 	"venturabaywyscigtypudrag":{
-		"label":"Wyścig typu drag",
+		"label":"Drag",
 		"desc":""
 	},
 	"venturabaypunktwidokowy":{
 		"label":{
-			"WeidCanyon-zapora":"Weid Canyon - zapora",
+			"WeidCanyon-zapora":"Weid Canyon - přehrada",
 			"CrescentMountain-panorama":"Crescent Mountain - panorama",
-			"WeidCanyon-rzeka":"Weid Canyon - rzeka",
+			"WeidCanyon-rzeka":"Weid Canyon - řeka",
 			"GraniteSprings-panorama":"Granite Springs - panorama",
-			"GraniteSprings-pomnik":"Granite Springs - pomnik",
+			"GraniteSprings-pomnik":"Granite Springs - pomník",
 			
 			"Beckenholl-panorama":"Beckenholl - panorama",
 			"CrossRoads-panorama":"Cross Roads - panorama",
-			"ShorelineFront-zatoka":"Shoreline Front - zatoka",
+			"ShorelineFront-zatoka":"Shoreline Front - zátoka",
 			"VenturaBay-panorama":"Ventura Bay - panorama",
 			"VenturaBay-centrum":"Ventura Bay - centrum",
 			
 			"StadionGhost":"Stadion Ghost",
 			"Millennium-most":"Millennium - most",
-			"LonePalmVillage-skrzyzowanie":"Lone Palm Village - skrzyżowanie",
-			"EastEsplanade-starefabryki":"East Esplanade - stare fabryki",
+			"LonePalmVillage-skrzyzowanie":"Lone Palm Village - křižovatka",
+			"EastEsplanade-starefabryki":"East Esplanade - staré továrny",
 			"Arcadia-park":"Arcadia - park",
 			
-			"VenturaBay-centrumsztuki":"Ventura Bay - centrum sztuki",
-			"KomplekspetrochemicznyVB":"Kompleks petrochemiczny VB",
-			"SanPedro-port":"San Pedro - port",
+			"VenturaBay-centrumsztuki":"Ventura Bay - umělecké centrum",
+			"KomplekspetrochemicznyVB":"Petrochemický komplex VB",
+			"SanPedro-port":"San Pedro - přístav",
 			"NavyPier":"Navy Pier",
 			"SouthPort-most":"South Port - most",
 			
 			"FranklinTerrace-panorama":"Franklin Terrace - panorama",
 			"Morphus":"Morphus",
-			"HarborViewcentrum-handlowe":"Harbor View - centrum handlowe",
+			"HarborViewcentrum-handlowe":"Harbor View - obchodní centrum",
 			"ApolloHeights":"Apollo Heights",
 			"BBAIndustries":"BBA Industries",
 			
-			"CastleHill-stacjauzdatnianiawody":"Castle Hill - stacja uzdatniania wody",
-			"SinnersPeak-obserwatorium":"Sinner's Peak - obserwatorium",
+			"CastleHill-stacjauzdatnianiawody":"Castle Hill - stanice odpadních vod",
+			"SinnersPeak-obserwatorium":"Sinner's Peak - observatoř",
 			"ElRay-molo":"El Ray - molo",
-			"VenturaBay-widoknaocean":"Ventura Bay - widok na ocean",
-			"BishopRock-wzgorza":"Bishop Rock - wzgórza"
+			"VenturaBay-widoknaocean":"Ventura Bay - vyhlídka na ocean",
+			"BishopRock-wzgorza":"Bishop Rock - kopec"
 		},
 		"popup":{
 			"WeidCanyon-zapora":"",
@@ -169,41 +169,41 @@
 	},
 	"venturabaymiejscedokreceniabaczkow":{
 		"label":{
-			"Wulkano-zacja":"Wulkano-zacja",
-			"Pieklopodmaska":"Piekło pod maską",
-			"Czarnydym":"Czarny dym",
-			"RuszylZiemie":"Ruszył Ziemię",
-			"Bjakbaczek":"B jak bączek",
+			"Wulkano-zacja":"Café au Creme",
+			"Pieklopodmaska":"Škodlivý karamel",
+			"Czarnydym":"Čokoládově oranžová",
+			"RuszylZiemie":"Jablečný křupan",
+			"Bjakbaczek":"Nutty Choco Fudge",
 			
-			"Zawrotyglowy":"Zawroty głowy",
-			"WkolkoMacieju":"W kółko Macieju",
-			"Kolafortuny":"Koła fortuny",
-			"Wirujacysens":"Wirujący sens",
-			"Miotaczognia":"Miotacz ognia",
+			"Zawrotyglowy":"Javorová slanina",
+			"WkolkoMacieju":"Koko Ganache",
+			"Kolafortuny":"Mrazivé pokropení",
+			"Wirujacysens":"Fondánový sen",
+			"Miotaczognia":"Citronové osvěžení",
 			
-			"Tornado":"Tornado",
-			"Sladynaulicy":"Ślady na ulicy",
-			"Zakreconazakrecona":"Zakręcona zakręcona",
-			"Czarnadziura":"Czarna dziura",
-			"Disco-bak":"Disco-bąk",
+			"Tornado":"Locococo",
+			"Sladynaulicy":"Máslová fiesta",
+			"Zakreconazakrecona":"Fialová glazura",
+			"Czarnadziura":"Lesní ovoce",
+			"Disco-bak":"Hluboké mandle",
 			
-			"Wkrecaniesruby":"Wkręcanie śruby",
-			"Iskryzalufelg":"Iskry z alufelg",
-			"Zwijanieasfaltu":"Zwijanie asfaltu",
-			"Szalonyspin":"Szalony spin",
-			"Wokolslonca":"Wokół słońca",
+			"Wkrecaniesruby":"Cinnamoney",
+			"Iskryzalufelg":"Medově sladký",
+			"Zwijanieasfaltu":"Zmražený ďábel",
+			"Szalonyspin":"Kaštanové nebe",
+			"Wokolslonca":"Ošklivě glazované",
 			
-			"Kalabanga":"Kałabanga!",
-			"Aleurwal":"Ale urwał!",
-			"Malowaneamelinium":"Malowane amelinium",
-			"Smolaspodkola":"Smoła spod koła",
-			"Takimamyklimat":"Taki mamy klimat",
+			"Kalabanga":"Suché těsto",
+			"Aleurwal":"Ořechová rána",
+			"Malowaneamelinium":"Vanilkové monstrum",
+			"Smolaspodkola":"Marshmallow Pop",
+			"Takimamyklimat":"Rockhard Melts",
 			
-			"Kolkograniaste":"Kółko graniaste",
-			"Silnikwogniu":"Silnik w ogniu",
-			"Kalejdoskop":"Kalejdoskop",
-			"Rozkrecanieimprezy":"Rozkręcanie imprezy",
-			"Hula-hoop":"Hula-hoop"
+			"Kolkograniaste":"Choc n' Chip",
+			"Silnikwogniu":"Sugar Booger",
+			"Kalejdoskop":"Andělský bič",
+			"Rozkrecanieimprezy":"Obří hřích",
+			"Hula-hoop":"Crank-a-Nutta"
 		},
 		"popup":{
 			"Wulkano-zacja":"",
@@ -245,79 +245,79 @@
 	},
 	"venturabaydarmowaczesc":{
 		"label":{
-			"20":"Darmowa część nr 20",
-			"12":"Darmowa część nr 12",
-			"18":"Darmowa część nr 18",
-			"1":"Darmowa część nr 1",
-			"15":"Darmowa część nr 15",
+			"20":"Součástka zdarma č. 20",
+			"12":"Součástka zdarma č. 12",
+			"18":"Součástka zdarma č. 18",
+			"1":"Součástka zdarma č. 1",
+			"15":"Součástka zdarma č. 15",
 			
-			"10":"Darmowa część nr 10",
-			"11":"Darmowa część nr 11",
-			"23":"Darmowa część nr 23",
-			"13":"Darmowa część nr 13",
-			"19":"Darmowa część nr 19",
+			"10":"Součástka zdarma č. 10",
+			"11":"Součástka zdarma č. 11",
+			"23":"Součástka zdarma č. 23",
+			"13":"Součástka zdarma č. 13",
+			"19":"Součástka zdarma č. 19",
 			
-			"21":"Darmowa część nr 21",
-			"2":"Darmowa część nr 2",
-			"3":"Darmowa część nr 3",
-			"22":"Darmowa część nr 22",
-			"14":"Darmowa część nr 14",
+			"21":"Součástka zdarma č. 21",
+			"2":"Součástka zdarma č. 2",
+			"3":"Součástka zdarma č. 3",
+			"22":"Součástka zdarma č. 22",
+			"14":"Součástka zdarma č. 14",
 			
-			"6":"Darmowa część nr 6",
-			"5":"Darmowa część nr 5",
-			"8":"Darmowa część nr 8",
-			"16":"Darmowa część nr 16",
-			"9":"Darmowa część nr 9",
+			"6":"Součástka zdarma č. 6",
+			"5":"Součástka zdarma č. 5",
+			"8":"Součástka zdarma č. 8",
+			"16":"Součástka zdarma č. 16",
+			"9":"Součástka zdarma č. 9",
 			
-			"17":"Darmowa część nr 17",
-			"4":"Darmowa część nr 4",
-			"7":"Darmowa część nr 7",
-			"24":"Darmowa część nr 24"
+			"17":"Součástka zdarma č. 17",
+			"4":"Součástka zdarma č. 4",
+			"7":"Součástka zdarma č. 7",
+			"24":"Součástka zdarma č. 24"
 		},
 		"popup":{
-			"20":"Lusterko na błotnik w stylu ulicznym do Hondy Civic",
-			"12":"Butla nitro (odn. z upływem czasu) - poj. 2,3 kg",
-			"18":"Podświetlany wlot powietrza do Lotusa",
-			"1":"Sprzęgło z czasem zmiany biegów 0,1 s",
-			"15":"Podświetlany wlot powietrza do Volvo",
+			"20":"Zrcátko na blatníku v pouličním stylu pro Hondu Civic",
+			"12":"Nádrž nitra (naplnitelná časově) - objem 5lb",
+			"18":"Reflektor umístěný v přívodu vzduchu pro Lotus Elise",
+			"1":"Spojka se změnou převodového stupně za 0,1 s",
+			"15":"Reflektor umístěný v přívodu vzduchu pro Volvo 242",
 			
-			"10":"Chłodnica międzystopniowa szer./wys. 26 x 6",
+			"10":"Chladič šíř./výš. 26 x 6",
 			"11":"Kompresor EliteTune-SC-V1-TUNER",
-			"23":"Wyścigowe progi boczne do Dodge'a Challengera SRT",
-			"13":"Duże błotniki fabryczne do Golfa GTI",
-			"19":"Wyścigowy błotnik typu I do Hondy Civic",
+			"23":"Práh v závodním stylu pro Dodge Challenger SRT",
+			"13":"Rozšířené původní blatníky pro VW Golf GTI",
+			"19":"Blatníky v závodním stylu pro Hondu Civic",
 			
-			"21":"Szeroki błotnik w stylu ulicznym do Dodge'a Challengera SRT",
-			"2":"zamienny filtr powietrza",
-			"3":"Podrasowana pompa paliwowa",
-			"22":"Wyścigowe progi boczne do Hondy Civic",
-			"14":"Podświetlany wlot powietrza do Golfa GTI",
+			"21":"Rozšířené blatníky v pouličním stylu pro Dodge Challenger SRT",
+			"2":"Zaměnitelný vzduchový filtr",
+			"3":"Benzínová pumpa z druhé ruky",
+			"22":"Práh v závodním stylu pro Hondu Civic",
+			"14":"Reflektor umístěný v přívodu vzduchu pro VW Golf GTI",
 			
-			"6":"Wyścigowy układ wydechowy bez katalizatora",
-			"5":"Kolektor EL",
-			"8":"Podrasowany wałek rozrządu Elite.4 o czasie otwarcia zaworu (ssanie/wydech): 243/283",
-			"16":"Luserko na błotnik w stylu ulicznym do Mustanga-65",
-			"9":"Wyszlifowane doloty Elite Tuning v.2",
+			"6":"Závodní výfukový systém bez katalyzátoru",
+			"5":"Rozdělovač EL",
+			"8":"Váčkový hřídel Elite.4 (sání/výfuk) 243/283 z druhé ruky",
+			"16":"Zrcátko na blatníku v pouličním stylu pro Ford Mustang 1965",
+			"9":"Blok motoru Elite Tuning v.2",
 			
-			"17":"Deflektory z kompozytu węglowego do Lotusa",
-			"4":"W pełni regulowane hamulce",
-			"7":"W pełni regulowany hamulec ręczny",
-			"24":"Szeroki błotnik w stylu ulicznym do Volvo"
+			"17":"Karbonové deflektory pro Lotus Elise",
+			"4":"Plně nastavitelné brzdy",
+			"7":"Plně nastavitelná ruční brzda",
+			"24":"Rozšířené blatníky v pouličním stylu pro Volvo 242"
 		}
 	},
 	"venturabaypunkteksploracyjny":{
 		"label":{
 			"Nerd":"Nerd",
-			"Kryjowkaidealna":"Kryjówka idealna",
-			"Wrakpociagu":"Wrak pociągu",
-			"Piksel":"Piksel",
-			"Szaman":"Szaman",
+			"Kryjowkaidealna":"Perfektní Schovka",
+			"Wrakpociagu":"Vrak vlaku",
+			"Piksel":"Pixel",
+			"Szaman":"Šaman",
 			
-			"Muralzmonoklem":"Mural z monoklem",
-			"Pasekzycia":"Pasek życia",
+			"Muralzmonoklem":"Mural s monoklem",
+			"Pasekzycia":"Life bar",
 			"Nancy":"Nancy",
-			"Wiezacisnienzwzoremmaskujacym":"Wieża ciśnień z wzorem maskującym",
-			"Twarzwskale":"Twarz w skale"
+			"Wiezacisnienzwzoremmaskujacym":"Kamuflovaná vodní věž",
+			"Twarzwskale":"Tvář ve skále"
 		},
 		"popup":{
 			"Nerd":"",
@@ -335,54 +335,54 @@
 	},
 	"venturabaygonitwa":{
 		"label":{
-			"Zawirowania":"Zawirowania",
-			"Jakwzegarku":"Jak w zegarku",
-			"Zadymanazboczu":"Zadyma na zboczu",
-			"Strefazagrozenia":"Strefa zagrożenia",
-			"Granicawytrzymalosci":"Granica wytrzymałości",
-			"Piorun":"Piorun",
-			"Kompozytweglowy":"Kompozyt węglowy",
-			"Mieczworpalny":"Miecz worpalny",
-			"KabelRozruchowy":"Kabel Rozruchowy",
-			"Wplenerze":"W plenerze"
+			"Zawirowania":"Zakrouceno",
+			"Jakwzegarku":"Jako hodinky",
+			"Zadymanazboczu":"Jízda z kopce",
+			"Strefazagrozenia":"Nebezpečná zona",
+			"Granicawytrzymalosci":"Brzdný bod",
+			"Piorun":"Hrom",
+			"Kompozytweglowy":"Uhlíkový kompozit",
+			"Mieczworpalny":"Vorpalovo ostří",
+			"KabelRozruchowy":"Propojovací kabel",
+			"Wplenerze":"Divoká zvěř"
 		},
 		"popup":{
-			"Zawirowania":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 30 sekund",
-			"Jakwzegarku":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 26 sekund",
-			"Zadymanazboczu":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 27 sekund",
-			"Strefazagrozenia":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 28 sekund",
-			"Granicawytrzymalosci":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 32 sekundy",
-			"Piorun":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 30 sekund",
-			"Kompozytweglowy":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 30 sekund",
-			"Mieczworpalny":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 47 sekund",
-			"KabelRozruchowy":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 30 sekund",
-			"Wplenerze":"Pokonaj bez kolizji wyznaczoną trasę w mniej niż 25 sekund"
+			"Zawirowania":"Projeďte určenou trasu bez kolizí a za méně než 30 sekund",
+			"Jakwzegarku":"Projeďte určenou trasu bez kolizí a za méně než 26 sekund",
+			"Zadymanazboczu":"Projeďte určenou trasu bez kolizí a za méně než 27 sekund",
+			"Strefazagrozenia":"Projeďte určenou trasu bez kolizí a za méně než 28 sekund",
+			"Granicawytrzymalosci":"Projeďte určenou trasu bez kolizí a za méně než 32 sekund",
+			"Piorun":"Projeďte určenou trasu bez kolizí a za méně než 30 sekund",
+			"Kompozytweglowy":"Projeďte určenou trasu bez kolizí a za méně než 30 sekund",
+			"Mieczworpalny":"Projeďte určenou trasu bez kolizí a za méně než 47 sekund",
+			"KabelRozruchowy":"Projeďte určenou trasu bez kolizí a za méně než 30 sekund",
+			"Wplenerze":"Projeďte určenou trasu bez kolizí a za méně než 25 sekund"
 		}
 	},
 	"venturabayzakretdriftowy":{
 		"label":{
-			"Przytulnyzakatek":"Przytulny zakątek",
-			"Skandynawskieszarpniecie":"Skandynawskie szarpnięcie",
-			"Giecieblotnikow":"Gięcie błotników",
-			"Kontrobrot":"Kontrobrót",
-			"Solidnefundamenty":"Solidne fundamenty",
-			"Guzikzpetelka":"Guzik z pętelką",
-			"Dzielnicadriftu":"Dzielnica driftu",
-			"Szlifierkadometalu":"Szlifierka do metalu",
-			"Razjeszcze":"Raz jeszcze",
-			"Blockwbok":"Block w bok"
+			"Przytulnyzakatek":"Útulný koutek",
+			"Skandynawskieszarpniecie":"Skandinávský švih",
+			"Giecieblotnikow":"Ohýbání nárazníků",
+			"Kontrobrot":"Kontra řízení",
+			"Solidnefundamenty":"Přízemí",
+			"Guzikzpetelka":"Loop-the-loop",
+			"Dzielnicadriftu":"Strana driftu",
+			"Szlifierkadometalu":"Kovová bruska",
+			"Razjeszcze":"Ještě jeden",
+			"Blockwbok":"Ken't Block this"
 		},
 		"popup":{
-			"Przytulnyzakatek":"Pokonaj zakręt driftem osiągając minimum 3,500 pkt",
-			"Skandynawskieszarpniecie":"Pokonaj zakręt driftem osiągając minimum 3,000 pkt",
-			"Giecieblotnikow":"Pokonaj zakręt driftem osiągając minimum 4,000 pkt",
-			"Kontrobrot":"Pokonaj zakręt driftem osiągając minimum 2,500 pkt",
-			"Solidnefundamenty":"Pokonaj zakręt driftem osiągając minimum 3,500 pkt",
-			"Guzikzpetelka":"Pokonaj zakręt driftem osiągając minimum 3,000 pkt",
-			"Dzielnicadriftu":"Pokonaj zakręt driftem osiągając minimum 3,200 pkt",
-			"Szlifierkadometalu":"Pokonaj zakręt driftem osiągając minimum 4,500 pkt",
-			"Razjeszcze":"Pokonaj zakręt driftem osiągając minimum 3,000 pkt",
-			"Blockwbok":"Pokonaj zakręt driftem osiągając minimum 3,800 pkt"
+			"Przytulnyzakatek":"Projeďte zatáčku driftem o minimálním skóre 3,500 bodů",
+			"Skandynawskieszarpniecie":"Projeďte zatáčku driftem o minimálním skóre 3,000 bodů",
+			"Giecieblotnikow":"Projeďte zatáčku driftem o minimálním skóre 4,000 bodů",
+			"Kontrobrot":"Projeďte zatáčku driftem o minimálním skóre 2,500 bodů",
+			"Solidnefundamenty":"Projeďte zatáčku driftem o minimálním skóre 3,500 bodů",
+			"Guzikzpetelka":"Projeďte zatáčku driftem o minimálním skóre 3,000 bodů",
+			"Dzielnicadriftu":"Projeďte zatáčku driftem o minimálním skóre 3,200 bodů",
+			"Szlifierkadometalu":"Projeďte zatáčku driftem o minimálním skóre 4,500 bodů",
+			"Razjeszcze":"Projeďte zatáčku driftem o minimálním skóre 3,000 bodů",
+			"Blockwbok":"Projeďte zatáčku driftem o minimálním skóre 3,800 bodů"
 		}
 	}
 }
