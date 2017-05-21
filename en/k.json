@@ -1,15 +1,15 @@
 {
 	"redviewcountygaraz":{
-		"label":"Garaż",
-		"popup":"Tutaj możesz ukryć się przed policją."
+		"label":"Garage",
+		"popup":"There's a place where you can hide from the police."
 	},
 	"redviewcountyposterunek":{
-		"label":"Posterunek",
-		"popup":"W tym miejscu możesz odpocząć od pościgów za rajdowcami."
+		"label":"Police Station",
+		"popup":"There's a place where you can rest from pursuing racers."
 	},
 	"redviewcountywarsztat":{
-		"label":"Warsztat",
-		"popup":"W tym miejscu w mgnieniu oka naprawisz zniszczenia samochodu, załadujesz nitro oraz uzupełnisz bronie."
+		"label":"Workshop",
+		"popup":"In this place you can fix your damaged car, fill your nitrous or supply your weapons in the blink of an eye."
 	},
 	"redviewcountyskocznia":{
 		"label":{
