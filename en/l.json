@@ -1,58 +1,58 @@
 {
 	"venturabaygaraz":{
-		"label":"Garaż",
-		"popup":"Tutaj możesz zmienić <a href='http://nfszone.pl/articles.php?article_id=865' target='_blank'>samochód</a> lub poddać go <a href='http://nfszone.pl/articles.php?article_id=871' target='_blank'>modyfikacjom.</a>"
+		"label":"Garage",
+		"popup":"There's a place where you can either change your <a href='http://nfszone.pl/articles.php?article_id=865' target='_blank'>car</a> or <a href='http://nfszone.pl/articles.php?article_id=871' target='_blank'>modify it.</a>"
 	},
 	"venturabayposterunekpolicji":{
 		"label":{
-			"LosSol":"Los Sol - posterunek policji",
-			"LonePalm":"Lone Palm - posterunek policji",
-			"VenturaBay":"Posterunek policji w Ventura Bay",
-			"FranklinTerrace":"Franklin Terrace - posterunek policji"
+			"LosSol":"Los Sol - police station",
+			"LonePalm":"Lone Palm - police station",
+			"VenturaBay":"Ventura Bay Police Departament",
+			"FranklinTerrace":"Franklin Terrace - police station"
 		},
 		"popup":{
-			"LosSol":"To miejsce w Los Sol roi się od glin!",
-			"LonePalm":"To miejsce w Lone Palm roi się od glin!",
-			"VenturaBay":"To miejsce w Ventura Bay roi się od glin!",
-			"FranklinTerrace":"To miejsce we Franklin Terrace roi się od glin!"
+			"LosSol":"That place in Los Sol abounds in cops!",
+			"LonePalm":"That place in Lone Palm abounds in cops!",
+			"VenturaBay":"That place in Ventura Bay abounds in cops!",
+			"FranklinTerrace":"That place in Franklin Terrace abounds in cops!"
 		}
 	},
 	"venturabaystacjabenzynowa":{
 		"label":{
-			"GraniteSpring":"Granite Spring - stacja benzynowa",
-			"LosSol":"Los Sol - stacja benzynowa",
-			"MostLosSol":"Most Los Sol - stacja benzynowa",
-			"MilleniumPlaza":"Millenium Plaza - stacja benzynowa",
-			"LonePalm":"Lone Palm - stacja benzynowa",
-			"Esplanade":"Esplanade - stacja benzynowa",
-			"EastEsplanade":"East Esplanade - stacja benzynowa",
-			"Arcadia":"Arcadia - stacja benzynowa",
-			"CentrumSztukiVenturaBay":"Centrum Sztuki Ventura Bay - stacja benzynowa",
-			"Komplekspetrochemiczny":"Kompleks petrochemiczny - stacja benzynowa",
-			"HarborView":"Harbor View - stacja benzynowa",
-			"Port":"Port - stacja benzynowa",
-			"ApolloHeights":"Apollo Heights - stacja benzynowa",
-			"BBAIndustries":"BBA Industries - stacja benzynowa"
+			"GraniteSpring":"Granite Spring - petrol station",
+			"LosSol":"Los Sol - petrol station",
+			"MostLosSol":"Most Los Sol - petrol station",
+			"MilleniumPlaza":"Millenium Plaza - petrol station",
+			"LonePalm":"Lone Palm - petrol station",
+			"Esplanade":"Esplanade - petrol station",
+			"EastEsplanade":"East Esplanade - petrol station",
+			"Arcadia":"Arcadia - petrol station",
+			"CentrumSztukiVenturaBay":"Ventura Bay Art Centre - petrol station",
+			"Komplekspetrochemiczny":"Petrochemical complex - petrol station",
+			"HarborView":"Harbor View - petrol station",
+			"Port":"Harbor - petrol station",
+			"ApolloHeights":"Apollo Heights - petrol station",
+			"BBAIndustries":"BBA Industries - petrol station"
 		},
 		"popup":{
-			"GraniteSpring":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"LosSol":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"MostLosSol":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"MilleniumPlaza":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"LonePalm":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"Esplanade":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"EastEsplanade":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"Arcadia":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"CentrumSztukiVenturaBay":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"Komplekspetrochemiczny":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"HarborView":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"Port":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"ApolloHeights":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro.",
-			"BBAIndustries":"W tym miejscu możesz za darmo odnowić zniszczoną karoserię samochodu oraz napełnić nitro."
+			"GraniteSpring":"You can renew your damaged bodywork and fill nitrous there for free.",
+			"LosSol":"You can renew your damaged bodywork and fill nitrous there for free.",
+			"MostLosSol":"You can renew your damaged bodywork and fill nitrous there for free.",
+			"MilleniumPlaza":"You can renew your damaged bodywork and fill nitrous there for free.",
+			"LonePalm":"You can renew your damaged bodywork and fill nitrous there for free.",
+			"Esplanade":"You can renew your damaged bodywork and fill nitrous there for free.",
+			"EastEsplanade":"You can renew your damaged bodywork and fill nitrous there for free.",
+			"Arcadia":"You can renew your damaged bodywork and fill nitrous there for free.",
+			"CentrumSztukiVenturaBay":"You can renew your damaged bodywork and fill nitrous there for free.",
+			"Komplekspetrochemiczny":"You can renew your damaged bodywork and fill nitrous there for free.",
+			"HarborView":"You can renew your damaged bodywork and fill nitrous there for free.",
+			"Port":"You can renew your damaged bodywork and fill nitrous there for free.",
+			"ApolloHeights":"You can renew your damaged bodywork and fill nitrous there for free.",
+			"BBAIndustries":"You can renew your damaged bodywork and fill nitrous there for free."
 		}
 	},
 	"venturabaydriftowypociag":{
-		"label":"Driftowy pociąg",
+		"label":"Drift Train",
 		"desc":""
 	},
 	"venturabaygymkhana":{
@@ -60,15 +60,15 @@
 		"desc":""
 	},
 	"venturabayjazdanaczas":{
-		"label":"Jazda na czas",
+		"label":"Time attack",
 		"desc":""
 	},
 	"konkursdriftu":{
-		"label":"Konkurs driftu",
+		"label":"Drift contest",
 		"desc":""
 	},
 	"venturabayprobaczasowa":{
-		"label":"Próba czasowa",
+		"label":"Time trial",
 		"desc":""
 	},
 	"venturabayprobadriftu":{
@@ -84,50 +84,50 @@
 		"desc":""
 	},
 	"venturabaywyscignatorze":{
-		"label":"Wyścig na torze",
+		"label":"Circuit Race",
 		"desc":""
 	},
 	"venturabaywyscigtypudrag":{
-		"label":"Wyścig typu drag",
+		"label":"Drag Race",
 		"desc":""
 	},
 	"venturabaypunktwidokowy":{
 		"label":{
-			"WeidCanyon-zapora":"Weid Canyon - zapora",
+			"WeidCanyon-zapora":"Weid Canyon - dam",
 			"CrescentMountain-panorama":"Crescent Mountain - panorama",
-			"WeidCanyon-rzeka":"Weid Canyon - rzeka",
+			"WeidCanyon-rzeka":"Weid Canyon - river",
 			"GraniteSprings-panorama":"Granite Springs - panorama",
-			"GraniteSprings-pomnik":"Granite Springs - pomnik",
+			"GraniteSprings-pomnik":"Granite Springs - monument",
 			
 			"Beckenholl-panorama":"Beckenholl - panorama",
 			"CrossRoads-panorama":"Cross Roads - panorama",
-			"ShorelineFront-zatoka":"Shoreline Front - zatoka",
+			"ShorelineFront-zatoka":"Shoreline Front - bay",
 			"VenturaBay-panorama":"Ventura Bay - panorama",
-			"VenturaBay-centrum":"Ventura Bay - centrum",
+			"VenturaBay-centrum":"Ventura Bay - centre",
 			
 			"StadionGhost":"Stadion Ghost",
-			"Millennium-most":"Millennium - most",
-			"LonePalmVillage-skrzyzowanie":"Lone Palm Village - skrzyżowanie",
-			"EastEsplanade-starefabryki":"East Esplanade - stare fabryki",
+			"Millennium-most":"Millennium - bridge",
+			"LonePalmVillage-skrzyzowanie":"Lone Palm Village - crossing",
+			"EastEsplanade-starefabryki":"East Esplanade - old factory",
 			"Arcadia-park":"Arcadia - park",
 			
-			"VenturaBay-centrumsztuki":"Ventura Bay - centrum sztuki",
-			"KomplekspetrochemicznyVB":"Kompleks petrochemiczny VB",
-			"SanPedro-port":"San Pedro - port",
+			"VenturaBay-centrumsztuki":"Ventura Bay - art centre",
+			"KomplekspetrochemicznyVB":"VB petrochemical centre",
+			"SanPedro-port":"San Pedro - harbor",
 			"NavyPier":"Navy Pier",
-			"SouthPort-most":"South Port - most",
+			"SouthPort-most":"South Port - bridge",
 			
 			"FranklinTerrace-panorama":"Franklin Terrace - panorama",
 			"Morphus":"Morphus",
-			"HarborViewcentrum-handlowe":"Harbor View - centrum handlowe",
+			"HarborViewcentrum-handlowe":"Harbor View - mall",
 			"ApolloHeights":"Apollo Heights",
 			"BBAIndustries":"BBA Industries",
 			
-			"CastleHill-stacjauzdatnianiawody":"Castle Hill - stacja uzdatniania wody",
-			"SinnersPeak-obserwatorium":"Sinner's Peak - obserwatorium",
-			"ElRay-molo":"El Ray - molo",
-			"VenturaBay-widoknaocean":"Ventura Bay - widok na ocean",
-			"BishopRock-wzgorza":"Bishop Rock - wzgórza"
+			"CastleHill-stacjauzdatnianiawody":"Castle Hill - water-works",
+			"SinnersPeak-obserwatorium":"Sinner's Peak - observatory",
+			"ElRay-molo":"El Ray - pier",
+			"VenturaBay-widoknaocean":"Ventura Bay - view for ocean",
+			"BishopRock-wzgorza":"Bishop Rock - hills"
 		},
 		"popup":{
 			"WeidCanyon-zapora":"",
@@ -245,38 +245,38 @@
 	},
 	"venturabaydarmowaczesc":{
 		"label":{
-			"20":"Darmowa część nr 20",
-			"12":"Darmowa część nr 12",
-			"18":"Darmowa część nr 18",
-			"1":"Darmowa część nr 1",
-			"15":"Darmowa część nr 15",
+			"20":"Free part #20",
+			"12":"Free part #12",
+			"18":"Free part #18",
+			"1":"Free part #1",
+			"15":"Free part #15",
 			
-			"10":"Darmowa część nr 10",
-			"11":"Darmowa część nr 11",
-			"23":"Darmowa część nr 23",
-			"13":"Darmowa część nr 13",
-			"19":"Darmowa część nr 19",
+			"10":"Free part #10",
+			"11":"Free part #11",
+			"23":"Free part #23",
+			"13":"Free part #13",
+			"19":"Free part #19",
 			
-			"21":"Darmowa część nr 21",
-			"2":"Darmowa część nr 2",
-			"3":"Darmowa część nr 3",
-			"22":"Darmowa część nr 22",
-			"14":"Darmowa część nr 14",
+			"21":"Free part #21",
+			"2":"Free part #2",
+			"3":"Free part #3",
+			"22":"Free part #22",
+			"14":"Free part #14",
 			
-			"6":"Darmowa część nr 6",
-			"5":"Darmowa część nr 5",
-			"8":"Darmowa część nr 8",
-			"16":"Darmowa część nr 16",
-			"9":"Darmowa część nr 9",
+			"6":"Free part #6",
+			"5":"Free part #5",
+			"8":"Free part #8",
+			"16":"Free part #16",
+			"9":"Free part #9",
 			
-			"17":"Darmowa część nr 17",
-			"4":"Darmowa część nr 4",
-			"7":"Darmowa część nr 7",
-			"24":"Darmowa część nr 24"
+			"17":"Free part #17",
+			"4":"Free part #4",
+			"7":"Free part #7",
+			"24":"Free part #24"
 		},
 		"popup":{
-			"20":"Lusterko na błotnik w stylu ulicznym do Hondy Civic",
-			"12":"Butla nitro (odn. z upływem czasu) - poj. 2,3 kg",
+			"20":"Street style front fender mirrors for Honda Civic",
+			"12":"Time Refill Nitrous 5lb Capacity",
 			"18":"Podświetlany wlot powietrza do Lotusa",
 			"1":"Sprzęgło z czasem zmiany biegów 0,1 s",
 			"15":"Podświetlany wlot powietrza do Volvo",
